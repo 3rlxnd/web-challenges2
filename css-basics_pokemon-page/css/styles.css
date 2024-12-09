@@ -36,7 +36,7 @@ h2 {
 - Add padding of 10px
 - Center the text of the heading
 */
-.title {
+h1 {
   background-color: white;
   margin: 0;
   padding: 10px;

@@ -9,7 +9,7 @@ body {
 }
 
 /* Put a selector here to select div elements (see index.html). */
-div {
+.box {
   font-family: cursive;
   padding: 8px;
   height: 150px;

@@ -83,6 +83,10 @@ ul > li > .user {
   color: darkslategray;
 }
 
+ul > li > .user > .bio {
+  display: none;
+}
+
 /*
   Part 1
 
